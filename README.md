@@ -1,3 +1,7 @@
+This repository is no longer maintained.
+
+---
+
 # git-php-deploy
 
 ## Copyright Notice
